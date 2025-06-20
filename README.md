@@ -61,10 +61,9 @@ Make sure to update the target date in `Home` component if you want to reuse thi
 
 Follow for more such creative and code-based content!
 
-- 📸 **Instagram**: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎥 **YouTube**: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 **Twitter/X**: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 **LinkedIn**: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📸 **Instagram**: [Manish](https://www.instagram.com/manish_sharmaa45/)
+- 🎥 **Facebook**: [Manish](https://www.facebook.com/profile.php?id=100086450979626)
+
 
 ---
 
