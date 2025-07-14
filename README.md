@@ -1,4 +1,4 @@
-# Birthday Surprise Website 🎂🎉
+# Birthday Surprise Website made by manish sharma 🎂🎉
 
 This is a special **Birthday Celebration Website** created using **Next.js, Tailwind CSS, Framer Motion**, and **Lucide Icons**.  
 It's designed as a personal and emotional way to wish someone special — when you can't be there physically, let your code speak! 💖
