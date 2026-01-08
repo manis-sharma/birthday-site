@@ -4,6 +4,7 @@ import { useState } from "react"
 import { AnimatePresence, motion } from "framer-motion"
 import { Heart, Sparkles, Gift, Cake } from "lucide-react"
 
+
 export default function BirthdayCelebration() {
   const [isCardOpen, setIsCardOpen] = useState(false)
 
