@@ -5,6 +5,7 @@ import { Heart, Sparkles, Star } from "lucide-react"
 function Loader() {
   const [randomPositions, setRandomPositions] = useState([]);
 
+
   // Only run the random position generation after the component mounts
   useEffect(() => {
     const positions = Array.from({ length: 20 }).map(() => ({
