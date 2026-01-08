@@ -7,6 +7,7 @@ import { Heart } from "lucide-react"
 export default function FloatingHearts() {
   const [hearts, setHearts] = useState([])
 
+
   useEffect(() => {
     // Generate floating hearts
     const colors = [
