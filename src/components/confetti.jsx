@@ -19,6 +19,7 @@ export default function Confetti() {
       "bg-purple-300",
     ]
 
+
     const shapes = ["rounded-full", "rounded", "rounded-sm", "heart-shape"]
 
     const newConfetti = Array.from({ length: 70 }).map((_, i) => ({
